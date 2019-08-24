@@ -1,1 +1,1 @@
-![Demo UI] (demo.png)
+![Demo UI](demo.png)
